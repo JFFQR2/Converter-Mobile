@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="in">Из</string>
+    <string name="out">В</string>
+    <string name="traslate">Перевести</string>
+    <string name="about_version">Converter 0.1</string>
+    <string name="about_created">Created by Quite River 27.12.2016</string>
+    <string name="about_ported">By Quite River 28.03.2017</string>
+    <string name="ported">Ported</string>
+    <string-array name="information">
+        <item>Байт</item>
+        <item>Килобайт</item>
+        <item>Мегабайт</item>
+        <item>Гигабайт</item>
+        <item>Терабайт</item>
+    </string-array>
+    <string-array name="speed">
+        <item>Метр в секунду</item>
+        <item>Километр в час</item>
+        <item>Миля в час</item>
+        <item>Фут в секунду</item>
+        <item>Узел</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>Цельсия</item>
+        <item>Фаренгейт</item>
+        <item>Кельвин</item>
+    </string-array>
+    <string-array name="cpu">
+        <item>Герц</item>
+        <item>Килогерц</item>
+        <item>Мегагерц</item>
+        <item>Гигагерц</item>
+    </string-array>
+    <string-array name="mass">
+        <item>Килограмм</item>
+        <item>Грамм</item>
+        <item>Тонна</item>
+        <item>Стоун</item>
+        <item>Фунт</item>
+        <item>Унция</item>
+    </string-array>
+    <string-array name="lenght">
+        <item>Километр</item>
+        <item>Метр</item>
+        <item>Сантиметр</item>
+        <item>Миллиметр</item>
+        <item>Миля</item>
+        <item>Ярд</item>
+        <item>Фут</item>
+        <item>Дюйм</item>
+        <item>Морская миля</item>
+    </string-array>
+    <string-array name="time">
+        <item>Милисекунда</item>
+        <item>Секунда</item>
+        <item>Минута</item>
+        <item>Час</item>
+        <item>Сутки</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Год</item>
+        <item>Десятилетие</item>
+        <item>Век</item>
+    </string-array>
+    <string-array name="square">
+        <item>Квадратный километр</item>
+        <item>Квадратный метр</item>
+        <item>Квадратная миля</item>
+        <item>Квадратный ярд</item>
+        <item>Квадратный фут</item>
+        <item>Квадратный дюйм</item>
+    </string-array>
+    <string-array name="power">
+        <item>Ватт</item>
+        <item>КилоВатт</item>
+        <item>Лошадиная Сила</item>
+    </string-array>
+</resources>
